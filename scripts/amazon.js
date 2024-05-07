@@ -1,3 +1,5 @@
+import { cart } from "../data/cart.js";
+
 let productsHTML = "";
 //accumulating pattern because each time we get html and added in productshtml in content.
 products.forEach((product) => {
